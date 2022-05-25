@@ -1,0 +1,9 @@
+csvsource = C:\Users\neoarya\Downloads\smallSales.csv
+dB_login = postgres
+dB_password = 12345678
+dB_host = localhost
+dB_schema = public
+dB_name = postgres
+dB_tableName = miniAsg2
+dB_port = 5432
+
